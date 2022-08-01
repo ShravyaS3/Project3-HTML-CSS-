@@ -8,7 +8,7 @@
 
 ![BADGE](https://img.shields.io/badge/-SHRAVYA%20SARUGU-FF69B4)
 
-# Learning from this project:
+# Learnings from this project:
 
 - gained good knowledge on CSS POSITIONS.
 
